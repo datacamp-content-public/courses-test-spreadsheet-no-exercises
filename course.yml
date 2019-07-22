@@ -1,5 +1,5 @@
-title: Test-spreadsheet-no-exercises
-description: A description of the course.
-programming_language: spreadsheets
-from: 'r-base-prod:v1.0.2' # from: is needed but this can be ignored
-#from: 'tidyverse-base-prod:v1.0.2'
+id: 8553
+title: "Data Analysis with Spreadsheets"
+difficulty_level: 1
+description: "This course will dig deeper into some of the core functionality of Google Sheets. There's a whole bunch of predefined functions we'll cover, like `SUM()` and `AVERAGE()`, and `VLOOKUP()`. We'll apply these techniques to do some analysis on your grades in school, look at performance statistics within a company, track monthly sales, and look at some real geographical information about the countries of the world."
+programming_language: "spreadsheets"
